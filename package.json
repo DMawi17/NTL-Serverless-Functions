@@ -1,0 +1,24 @@
+{
+  "name": "ntl-serverless-functions",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMawi17/NTL-Serverless-Functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMawi17/NTL-Serverless-Functions/issues"
+  },
+  "homepage": "https://github.com/DMawi17/NTL-Serverless-Functions#readme",
+  "devDependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
